@@ -13,4 +13,6 @@ Connect with me:
 
 Gmail : rtsahmet26@gmail.com 
 
+Linkedin : https://www.linkedin.com/in/ahmet-ertas-9aa858246/
+
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ahmtertas&show_icons=true&theme=radical)
